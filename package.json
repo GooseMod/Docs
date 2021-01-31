@@ -1,0 +1,22 @@
+{
+  "name": "GooseModDocs",
+  "version": "0.0.1",
+  "description": "Documentation for GooseMod",
+  "main": "index.js",
+  "authors": {
+    "name": "Ducko",
+    "email": "goose@honk.camp"
+  },
+  "repository": "https://github.com/GooseMod/Injector/GooseMod Docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  },
+  "dependencies": {
+    "vuepress-theme-yuu": "^3.0.0"
+  }
+}
