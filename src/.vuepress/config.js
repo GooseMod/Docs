@@ -36,10 +36,17 @@ module.exports = {
         text: 'Guide',
         link: '/guide/',
       },
-      /*{
-        text: 'Config',
-        link: '/config/'
-      },*/
+
+      {
+        text: 'Patcher API',
+        link: '/patcher/'
+      },
+
+      {
+        text: 'Webpack',
+        link: '/webpack/'
+      },
+
       {
         text: 'GooseMod',
         link: 'https://goosemod.com'
@@ -64,6 +71,24 @@ module.exports = {
           ]
         }
       ],
+
+      '/patcher/': [
+        {
+          title: 'Patcher API',
+          children: [
+            ''
+          ]
+        }
+      ],
+
+      '/webpack/': [
+        {
+          title: 'Webpack',
+          children: [
+            ''
+          ]
+        }
+      ]
     }
   },
 
