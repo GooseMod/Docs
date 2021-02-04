@@ -59,15 +59,15 @@ module.exports = {
           //collapsable: false,
           children: [
             '',
-            'goosemod/compare.md'
+            'goosemod/compare'
           ]
         },
         {
           title: 'Your First Module',
           //collapsable: false,
           children: [
-            'first/github.md',
-            'first/manifest.md'
+            'first/github',
+            'first/manifest'
           ]
         }
       ],
@@ -75,8 +75,20 @@ module.exports = {
       '/patcher/': [
         {
           title: 'Patcher API',
+          collapsable: false,
           children: [
-            ''
+            '',
+            'patch'
+          ]
+        },
+
+        {
+          title: 'Standard API',
+          collapsable: false,
+          children: [
+            'standard/contextMenu',
+            'standard/miniPopover',
+            'standard/channelTextAreaButtons'
           ]
         }
       ],
