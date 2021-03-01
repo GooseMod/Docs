@@ -83,12 +83,12 @@ module.exports = {
         },
 
         {
-          title: 'Standard API',
+          title: 'Functions - UI',
           collapsable: false,
           children: [
-            'standard/contextMenu',
-            'standard/miniPopover',
-            'standard/channelTextAreaButtons'
+            'ui/contextMenu',
+            'ui/miniPopover',
+            'ui/channelTextAreaButtons'
           ]
         }
       ],
