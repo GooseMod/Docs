@@ -5,7 +5,7 @@
 The core of Patcher is the `patch` function, allowing easy post (after the original function) and pre (before the original function) patching of pre-existing functions. The arguments for the function are:
 
 ```js
-function patch(parentObject, parentKey, patchFunction, prePatch = false)
+function patch(parentObject, parentKey, patchFunction, isPrePatch = false)
 ```
 
 
