@@ -3,6 +3,10 @@
 ## Arguments
 
 The core of Patcher is the `patch` function, allowing easy post (after the original function) and pre (before the original function) patching of pre-existing functions. The arguments for the function are:
+  - `parentObject`: A parent object which has the pre-existing function under a key
+  - `parentKey`: The key name of the parent where the value is the pre-existing function
+  - `patchFunction`: Your patch function (see below)
+  - `isPrePatch`: Whether your patch function is pre - defaults to false (post)
 
 ```js
 function patch(parentObject, parentKey, patchFunction, isPrePatch = false)
