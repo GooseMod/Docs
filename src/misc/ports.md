@@ -11,8 +11,8 @@ GooseMod is a new (started development in October) Discord mod, designed quite d
 
 
 In terms of statistics for GooseMod: (as of 2nd March 2021)
-  - Over 2000 total users
-  - ~170 members in GooseMod's Discord
+  - Over 6000 total users
+  - ~200 members in GooseMod's Discord
   - Over 45 original modules for GooseMod
   - Over ~4 GooseMod developers in the Module Store
   - Over ~20 ported developers in the Module Store
@@ -21,5 +21,3 @@ In terms of statistics for GooseMod: (as of 2nd March 2021)
 ## What's the process?
 
 As long as your theme currently supports *BetterDiscord*, or *Powercord*\*, it is as easy as just giving your explicit permission for it to be added to GooseMod's Module Store. We make sure we always get consent before adding any form of ported plugin or theme to the Module Store as we want to give developer's the full choice. You can change your decision at any time.
-
-*\* We currently do not support SCSS but are looking into it for the future.*
