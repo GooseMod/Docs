@@ -20,4 +20,8 @@ In terms of statistics for GooseMod: (as of 2nd March 2021)
 
 ## What's the process?
 
-As long as your theme currently supports *BetterDiscord*, *Powercord*, or *Vizality* it is as easy as just giving your explicit permission for it to be added to GooseMod's Module Store. We make sure we always get consent before adding any form of ported plugin or theme to the Module Store as we want to give developer's the full choice. You can change your decision at any time.
+As long as your:
+ - Theme: currently supports *BetterDiscord*, *Powercord*, or *Vizality*
+ - Plugin: currently supports *Powercord*
+
+Then it is as easy as just giving your explicit permission for it to be added to GooseMod's Module Store. We make sure we always get consent before adding any form of ported plugin or theme to the Module Store as we want to give developer's the full choice. You can change your decision at any time.
