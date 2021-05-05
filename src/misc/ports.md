@@ -11,11 +11,11 @@ GooseMod is a new (started development in October) Discord mod, designed quite d
 
 
 In terms of statistics for GooseMod: (as of 2nd March 2021)
-  - Over 7000 total users
-  - ~230 members in GooseMod's Discord
+  - Over 8000 total users
+  - Over 280 members in GooseMod's Discord
   - Over 45 original modules for GooseMod
-  - Over ~5 GooseMod developers in the Module Store
-  - Over ~25 ported developers in the Module Store
+  - Over 5 original GooseMod developers in the Module Store
+  - Over 30 ported developers (developers who had their themes / plugins added) in the Module Store
 
 
 ## What's the process?
