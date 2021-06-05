@@ -5,7 +5,7 @@ If you are reading this you have likely been asked for permission to add your al
 
 ## What is GooseMod?
 
-GooseMod is a new (started development in October) Discord mod, designed quite differently than other mods. The primary difference being that users install themes and plugins via a built-in store, called the Module Store, rather than using the filesystem / downloading another way. [You can find out some more information about GooseMod by looking at our main site](https://goosemod.com). Here you can see a screenshot of the Module Store UI in GooseMod:
+GooseMod is a new (started development in October) Discord mod, designed quite differently than other mods. The primary difference being that users install themes and plugins via a built-in store, called the Module Store, rather than using the filesystem / downloading another way. [You can find out some more information about GooseMod by looking at our main site](https://goosemod.com). Here you can see a screenshot of the Store's UI in GooseMod:
 
 ![Screenshot of the Store UI](https://media.discordapp.net/attachments/756146058924392545/850700371932610560/unknown.png)
 
