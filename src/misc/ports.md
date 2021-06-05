@@ -7,21 +7,21 @@ If you are reading this you have likely been asked for permission to add your al
 
 GooseMod is a new (started development in October) Discord mod, designed quite differently than other mods. The primary difference being that users install themes and plugins via a built-in store, called the Module Store, rather than using the filesystem / downloading another way. [You can find out some more information about GooseMod by looking at our main site](https://goosemod.com). Here you can see a screenshot of the Module Store UI in GooseMod:
 
-![Example Screenshot of the Module Store UI](https://media.discordapp.net/attachments/804087288941641778/828236306323996702/unknown.png)
+![Screenshot of the Store UI](https://media.discordapp.net/attachments/756146058924392545/850700371932610560/unknown.png)
 
 
-In terms of statistics for GooseMod: (as of 2nd March 2021)
+In terms of rough statistics for GooseMod:
   - Over 8000 total users
-  - Over 280 members in GooseMod's Discord
+  - Over 370 members in GooseMod's Discord
   - Over 45 original modules for GooseMod
   - Over 5 original GooseMod developers in the Module Store
-  - Over 30 ported developers (developers who had their themes / plugins added) in the Module Store
+  - Over 40 ported developers (developers who had their themes / plugins added) in the Module Store
 
 
 ## What's the process?
 
 As long as your:
- - Theme: currently supports *BetterDiscord*, *Powercord*, or *Vizality*
- - Plugin: currently supports *Powercord*
+ - Theme: supports *BetterDiscord*, *Powercord*, or *Vizality*
+ - Plugin: supports *Powercord*
 
 Then it is as easy as just giving your explicit permission for it to be added to GooseMod's Module Store. We make sure we always get consent before adding any form of ported plugin or theme to the Module Store as we want to give developer's the full choice. You can change your decision at any time.
