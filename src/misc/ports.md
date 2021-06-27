@@ -14,8 +14,8 @@ In terms of rough statistics for GooseMod:
   - Over 8000 total users
   - Over 510 members in GooseMod's Discord
   - Over 50 original modules for GooseMod
-  - Over 6 original GooseMod developers in the Module Store
-  - Over 45 ported developers (developers who had their themes / plugins added) in the Module Store
+  - Over 7 original GooseMod developers in the Store
+  - Over 50 ported developers (developers who had their themes / plugins added) in the Store
 
 
 ## What's the process?
@@ -24,4 +24,4 @@ As long as your:
  - Theme: supports *BetterDiscord*, *Powercord*, or *Vizality*
  - Plugin: supports *Powercord*
 
-Then it is as easy as just giving your explicit permission for it to be added to GooseMod's Store. We make sure we always get consent before adding any form of ported plugin or theme to the Module Store as we want to give developer's the full choice. You can change your decision at any time.
+Then it is as easy as just giving your explicit permission for it to be added to GooseMod's Store. We make sure we always get consent before adding any form of ported plugin or theme to the Store as we want to respect developer's wishes. You can change your decision at any time.
