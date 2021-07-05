@@ -9,13 +9,18 @@ GooseMod is a new (started development in October) Discord mod, designed quite d
 
 ![Screenshot of the Store UI](https://media.discordapp.net/attachments/756146058924392545/854274691672834048/gm_ss_store.png)
 
+[You can also browse the GooseMod Store online here.](https://store.goosemod.com)
+
+<br>
 
 In terms of rough statistics for GooseMod:
   - Over 8000 total users
-  - Over 510 members in GooseMod's Discord
+  - Over 560 members in GooseMod's Discord
   - Over 50 original modules for GooseMod
-  - Over 7 original GooseMod developers in the Store
-  - Over 50 ported developers (developers who had their themes / plugins added) in the Store
+  - Over 100 themes in GooseMod's Store
+  - Over 70 plugins in GooseMod's Store
+  - Over 8 original GooseMod developers in the Store
+  - Over 60 ported developers (developers who have their themes / plugins added) in the Store
 
 
 ## What's the process?
